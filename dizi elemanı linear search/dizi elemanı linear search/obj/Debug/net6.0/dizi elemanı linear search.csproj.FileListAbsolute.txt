@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\bin\Debug\net6.0\dizi elemanı linear search.exe
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\bin\Debug\net6.0\dizi elemanı linear search.deps.json
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\bin\Debug\net6.0\dizi elemanı linear search.runtimeconfig.json
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\bin\Debug\net6.0\dizi elemanı linear search.dll
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\bin\Debug\net6.0\dizi elemanı linear search.pdb
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\dizi elemanı linear search.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\dizi elemanı linear search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\dizi elemanı linear search.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\dizi elemanı linear search.AssemblyInfo.cs
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\dizi elemanı linear search.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\dizi elemanı linear search.dll
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\refint\dizi elemanı linear search.dll
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\dizi elemanı linear search.pdb
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\dizi elemanı linear search.genruntimeconfig.cache
+C:\Users\Hp\source\repos\dizi elemanı linear search\dizi elemanı linear search\obj\Debug\net6.0\ref\dizi elemanı linear search.dll
